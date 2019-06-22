@@ -1,3 +1,4 @@
+https://avo2003.github.io/new-project-tetris/
 # new-project-tetris
 go to terminal or Git Bash and write 
 * cd desktop
